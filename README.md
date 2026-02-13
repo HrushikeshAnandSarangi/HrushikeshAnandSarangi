@@ -1,5 +1,3 @@
-# Hrushikesh Anand Sarangi
-
 <p align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmF0dng4MTFpZGFsY3h2aGZwZ3o1dmQ2NjliOG9idGp5aTQ3ZXI1OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pVGsAWjzvXcZW4ZBTE/giphy.gif"
        width="100%"
