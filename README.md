@@ -15,18 +15,11 @@ I'm particularly interested in **Rust** as a practical language for building rel
 
 ## Philosophy
 
-> If something captures my interest, I will take it apart until I understand it.
+> If something piques my interest, I will tinker with it even if it's a bomb.
 
 That might be a compiler component, a distributed system, a protocol, or an idea that fails a few times before it works.
 
 **I don't chase stacks. I chase problems.**
-
-## Technical Focus
-
-- **Systems Programming**: Low-level abstractions, memory safety, performance optimization
-- **Rust Development**: Building reliable, concurrent systems
-- **Tooling & Infrastructure**: Developer experience, build systems, automation
-- **Distributed Systems**: Protocols, consistency, fault tolerance
 
 ## GitHub Analytics
 
@@ -34,45 +27,15 @@ That might be a compiler component, a distributed system, a protocol, or an idea
 
 ### Statistics
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=HrushikeshAnandSarangi&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=HrushikeshAnandSarangi&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=HrushikeshAnandSarangi&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-</picture>
+<img src="https://github-readme-stats.vercel.app/api?username=HrushikeshAnandSarangi&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400" alt="GitHub Stats" />
 
 ### Language Distribution
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=HrushikeshAnandSarangi&layout=compact&theme=dark&hide_border=true&langs_count=8"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=HrushikeshAnandSarangi&layout=compact&theme=default&hide_border=true&langs_count=8"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HrushikeshAnandSarangi&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Top Languages" />
-</picture>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HrushikeshAnandSarangi&layout=compact&theme=dark&hide_border=true&langs_count=8&cache_seconds=86400" alt="Top Languages" />
 
 ### Activity Streak
 
-<picture>
-  <source
-    srcset="https://streak-stats.demolab.com?user=HrushikeshAnandSarangi&theme=dark&hide_border=true"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://streak-stats.demolab.com?user=HrushikeshAnandSarangi&theme=default&hide_border=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://streak-stats.demolab.com?user=HrushikeshAnandSarangi&theme=dark&hide_border=true" alt="GitHub Streak" />
-</picture>
+<img src="https://streak-stats.demolab.com?user=HrushikeshAnandSarangi&theme=dark&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
