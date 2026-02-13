@@ -8,43 +8,37 @@
 
 ## About
 
-I like understanding how things work at the lowest level possible — and then pushing them a bit further.
+I care about understanding systems from the inside out.
 
-Most of my time goes into systems-level work, performance-sensitive code, and tooling where correctness actually matters. I enjoy working close to the metal, reasoning about memory, concurrency, and failure modes, and turning vague ideas into something that survives real-world use.
+Most of my work revolves around performance-sensitive code, low-level abstractions, and tooling where correctness, failure modes, and long-term maintainability matter more than trends.
 
-I am especially interested in Rust, not as a trend, but as a tool for building reliable, long-lived systems.
+I am particularly interested in Rust as a practical language for building reliable systems, but the problems themselves come first — languages are just tools.
 
 ---
 
 ## Philosophy
 
-If something sparks my curiosity, I will take it apart — whether it is a compiler pass, a distributed system, a protocol, or something that probably should not be touched unless you really want to understand it.
+If something captures my interest, I will take it apart until I understand it.
 
-I do not chase stacks. I chase problems.
+That might be a compiler component, a distributed system, a protocol, or an idea that fails a few times before it works.
+
+I do not chase stacks.  
+I chase problems.
 
 ---
 
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HrushikeshAnandSarangi&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HrushikeshAnandSarangi&layout=compact&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HrushikeshAnandSarangi&show_icons=true&theme=dark&hide_border=true" />
 </p>
 
 ---
 
-## Activity
+## Top Languages
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HrushikeshAnandSarangi&theme=github-compact&hide_border=true" />
-</p>
-
----
-
-## Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HrushikeshAnandSarangi&theme=radical&no-frame=true&row=1&column=6" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HrushikeshAnandSarangi&layout=compact&theme=dark&hide_border=true" />
 </p>
 
 ---
