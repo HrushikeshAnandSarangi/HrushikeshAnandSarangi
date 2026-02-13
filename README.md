@@ -1,7 +1,7 @@
 # Hrushikesh Anand Sarangi
 
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHNhaWY2enRrbDNrdnNxaTRzcmw3M2IxZ2I5MTlkMzBzOWQzM2szcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gH1jGsCnQBiFHWMFzh/giphy.gif"
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmF0dng4MTFpZGFsY3h2aGZwZ3o1dmQ2NjliOG9idGp5aTQ3ZXI1OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pVGsAWjzvXcZW4ZBTE/giphy.gif"
        width="100%"
        alt="Coding animation"
        onerror="this.style.display='none'" />
