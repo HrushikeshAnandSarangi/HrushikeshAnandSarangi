@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG8yNm9sd2I5c3g4cHE2Nm41c3Z2a3prcmkwYTQ2eDB0bXF2Njd2cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/N3yLGQ1oMYfGU/giphy.gif" width="800" alt="Coding animation"/>
+</p>
 # 💫 About Me:
 🔭 I’m currently working on<br>Systems-level projects using Rust.<br><br>👯 I’m looking to collaborate on<br>Rust-based systems, tooling, backend infrastructure, and open-source projects<br><br>🤝 I’m looking for help with<br>Advanced Rust, async ecosystems, and production-grade system design<br><br>🌱 I’m currently learning<br>Rust, low-level systems concepts, performance optimization, and memory-safe design<br>
 
