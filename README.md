@@ -25,17 +25,25 @@ That might be a compiler component, a distributed system, a protocol, or an idea
 
 <div align="center">
 
-### Statistics
+### Contribution Graph
 
-<img src="https://github-readme-stats.vercel.app/api?username=HrushikeshAnandSarangi&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400" alt="GitHub Stats" />
+![](https://github-readme-activity-graph.vercel.app/graph?username=HrushikeshAnandSarangi&theme=react-dark&hide_border=true&area=true)
 
-### Language Distribution
+### GitHub Metrics
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HrushikeshAnandSarangi&layout=compact&theme=dark&hide_border=true&langs_count=8&cache_seconds=86400" alt="Top Languages" />
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HrushikeshAnandSarangi&theme=github_dark)
 
-### Activity Streak
+### Stats Overview
 
-<img src="https://streak-stats.demolab.com?user=HrushikeshAnandSarangi&theme=dark&hide_border=true" alt="GitHub Streak" />
+<p>
+<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=HrushikeshAnandSarangi&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=HrushikeshAnandSarangi&layout=compact&langs_count=8&theme=dark&hide_border=true"/>
+</p>
+
+### Contribution Stats
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HrushikeshAnandSarangi&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HrushikeshAnandSarangi&theme=github_dark&utcOffset=5.5)
 
 </div>
 
