@@ -29,6 +29,10 @@ That might be a compiler component, a distributed system, a protocol, or an idea
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=HrushikeshAnandSarangi&theme=react-dark&hide_border=true&area=true)
 
+### Activity Streak
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=HrushikeshAnandSarangi&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
 ### GitHub Metrics
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HrushikeshAnandSarangi&theme=github_dark)
